@@ -13,7 +13,7 @@ Quá trình truy vấn và làm sạch dữ liệu được thực hiện bằng
  [**Xem chi tiết các câu lệnh SQL tại đây**](./data_cleaning_steps.sql)
 
 ## Preview
-![Dashboard Preview](PREVIEW_DASHBOARD.png)
+![Dashboard Preview](DEMO.gif)
 
 ## Key Business Insights
 Dựa trên kết quả phân tích, rút ra được các insights sau:
