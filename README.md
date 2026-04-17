@@ -1,7 +1,7 @@
 # Global Retail Sales Analysis 2011
 
 ## Interactive Dashboard
-[**Click here to view the Interactive Dashboard on Tableau Public**](https://public.tableau.com/app/profile/t.n.tr.n8477/viz/Retail_Sales_17762621520820/GLOBALRETAILSALESPERFORMANCEDASHBOARD2011_?publish=yes)
+[**Bấm vào đây để xem interactive dashboard**](https://public.tableau.com/app/profile/t.n.tr.n8477/viz/Retail_Sales_17762621520820/GLOBALRETAILSALESPERFORMANCEDASHBOARD2011_?publish=yes)
 
 ## Project Overview
 Dự án phân tích hơn 500,000 giao dịch bán lẻ để tìm ra xu hướng doanh thu.
@@ -18,9 +18,12 @@ Quá trình truy vấn và làm sạch dữ liệu được thực hiện bằng
 ## Key Business Insights
 Dựa trên kết quả phân tích, rút ra được các insights sau:
 
- **Rủi ro tập trung thị trường (Market Concentration):** Doanh thu từ Vương quốc Anh chiếm tới **85%**. Điều này cho thấy sự phụ thuộc quá lớn vào một thị trường duy nhất. 
-     **Đề xuất:** Mở rộng các chiến dịch marketing sang khu vực Châu Âu (Pháp, Đức) để đa dạng hóa nguồn thu.
- **Hiệu ứng mùa vụ (Seasonality):** Doanh thu tăng vọt đáng kể vào tháng 11 (> £1.5M).
-     **Đề xuất:** Doanh nghiệp nên chuẩn bị nguồn hàng và nhân sự tối đa vào quý 4 hàng năm để đáp ứng nhu cầu tăng cao này.
- **Thời điểm vàng (Peak Sales Time):** Lượng giao dịch tập trung mạnh nhất từ **10:00 AM đến 3:00 PM**.
-     **Đề xuất:** Triển khai các chương trình Flash Sale hoặc tăng cường đội ngũ hỗ trợ khách hàng trực tuyến trong khung giờ này để tối ưu tỷ lệ chuyển đổi.
+### Phân Tích Key Insights
+* **Rủi ro thị trường:** **85%** doanh thu tập trung tại **United Kingdom**, cho thấy sự phụ thuộc lớn vào một thị trường duy nhất.
+* **Tính mùa vụ:** Doanh thu tăng vọt vào **Tháng 11** (hơn **£1.5M**), do ảnh hưởng từ xu hướng mua sắm cuối năm, các chương trình khuyến mãi Black Friday & chuẩn bị cho mùa lễ hội Halloween, Christmas.
+* **Khung giờ vàng:** **80%** giao dịch diễn ra từ **10:00 sáng - 3:00 chiều**, đây là thời điểm khách hàng hoạt động mạnh nhất.
+
+### Đề Xuất Hành Động
+* **Đa dạng hóa:** Mở rộng tiếp thị sang các thị trường EU (Pháp, Đức) để giảm bớt sự phụ thuộc vào thị trường Anh.
+* **Quản trị nguồn lực:** Tăng cường lượng hàng tồn kho và nhân sự hỗ trợ trong **Quý 4** để khai thác tối đa sức mua cuối năm.
+* **Tối ưu quảng cáo:** Tập trung chạy các chiến dịch khuyến mãi và Flash Sale vào **Khung giờ vàng** để tối ưu hóa conversion rates.
