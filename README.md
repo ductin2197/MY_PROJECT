@@ -9,4 +9,4 @@ Dự án phân tích hơn 500,000 giao dịch bán lẻ để tìm ra xu hướn
 - **Tableau:** Trực quan hóa dữ liệu với các chỉ số quan trọng (85% doanh thu đến từ UK).
 
 ## Preview
-![Dashboard Preview](PREVIEW_DASHBOARD)
+![Dashboard Preview](PREVIEW_DASHBOARD.png)
