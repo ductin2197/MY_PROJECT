@@ -19,10 +19,11 @@ Quá trình truy vấn và làm sạch dữ liệu được thực hiện bằng
 Dựa trên kết quả phân tích, rút ra được các insights sau:
 
 ### Phân Tích Key Insights
-* **Rủi ro thị trường:** **85%** doanh thu tập trung tại **United Kingdom**, cho thấy sự phụ thuộc lớn vào một thị trường duy nhất.
+* **Rủi ro thị trường:** `85%` doanh thu tập trung tại `United Kingdom`, cho thấy sự phụ thuộc lớn vào một thị trường duy nhất.
 * **Tính mùa vụ:** Doanh thu tăng vọt vào **Tháng 11** (hơn **£1.5M**), do ảnh hưởng từ xu hướng mua sắm cuối năm, các chương trình khuyến mãi Black Friday & chuẩn bị cho mùa lễ hội Halloween, Christmas. **Fact-check:** _Khớp với xu hướng mua sắm cuối năm toàn cầu năm 2011. Theo [PR Newswire](https://www.prnewswire.com/news-releases/global-b2c-e-commerce-market-report-2011-136250253.html), tháng 11/2011 ghi nhận mức tăng trưởng kỷ lục nhờ các sự kiện giảm giá._
 * **Khung giờ vàng:** **80%** giao dịch diễn ra từ **10:00 sáng - 3:00 chiều**, đây là thời điểm khách hàng hoạt động mạnh nhất.
 
+---
 ### Đề Xuất Hành Động
 * **Đa dạng hóa:** Mở rộng tiếp thị sang các thị trường EU (Pháp, Đức) để giảm bớt sự phụ thuộc vào thị trường Anh.
 * **Quản trị nguồn lực:** Tăng cường lượng hàng tồn kho và nhân sự hỗ trợ trong **Quý 4** để khai thác tối đa sức mua cuối năm.
