@@ -8,6 +8,10 @@ Dự án phân tích hơn 500,000 giao dịch bán lẻ để tìm ra xu hướn
 - **SQL:** Làm sạch dữ liệu và xử lý các giao dịch lỗi.
 - **Tableau:** Trực quan hóa dữ liệu với các chỉ số quan trọng (85% doanh thu đến từ UK).
 
+## SQL 
+Quá trình truy vấn và làm sạch dữ liệu được thực hiện bằng SQL.
+ [**Xem chi tiết các câu lệnh SQL tại đây**](./data_cleaning_steps.sql)
+
 ## Preview
 ![Dashboard Preview](PREVIEW_DASHBOARD.png)
 
