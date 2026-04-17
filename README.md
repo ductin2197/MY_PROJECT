@@ -12,7 +12,7 @@ Dự án truy vấn và phân tích hơn 500,000 giao dịch bán lẻ để tì
 Quá trình truy vấn và làm sạch dữ liệu được thực hiện bằng SQL.
  [**Xem chi tiết các câu lệnh SQL tại đây**](./data_cleaning_steps.sql)
 
-## Preview
+## Preview Dashboard
 ![Dashboard Preview](DEMO.gif)
 
 ## Key Business Insights
