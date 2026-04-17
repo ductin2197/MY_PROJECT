@@ -1,7 +1,7 @@
 # Global Retail Sales Analysis 2011
 
 ## Interactive Dashboard
-[**Click here to view the Interactive Dashboard on Tableau Public**](DÁN_LINK_TABLEAU_CỦA_BẠN_VÀO_ĐÂY)
+[**Click here to view the Interactive Dashboard on Tableau Public**]([(https://public.tableau.com/app/profile/t.n.tr.n8477/viz/Retail_Sales_17762621520820/GLOBALRETAILSALESPERFORMANCEDASHBOARD2011_?publish=yes)])
 
 ## Project Overview
 Dự án phân tích hơn 500,000 giao dịch bán lẻ để tìm ra xu hướng doanh thu.
@@ -9,4 +9,4 @@ Dự án phân tích hơn 500,000 giao dịch bán lẻ để tìm ra xu hướn
 - **Tableau:** Trực quan hóa dữ liệu với các chỉ số quan trọng (85% doanh thu đến từ UK).
 
 ## Preview
-![Dashboard Preview](TÊN_FILE_ẢNH_BẠN_VỪA_UP_LÊN.jpg)
+![Dashboard Preview](PREVIEW_DASHBOARD.jpg)
